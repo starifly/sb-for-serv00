@@ -1,13 +1,3 @@
-freebsd编译：
-
-```
-git clone https://github.com/SagerNet/sing-box.git
-cd sing-box
-export GOPROXY=https://goproxy.cn
-export CGO_ENABLED=0 GOOS=freebsd
-make
-```
-
 ## sb-for-Serv00
 
 >新增 All-in-one 分支：[Sb-for-serv00 All-in-one branch](https://github.com/k0baya/sb-for-serv00/tree/all-in-one)
